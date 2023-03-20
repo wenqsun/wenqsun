@@ -7,7 +7,7 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
 </div>
   
 ## Research Area
-- 🔭 I’m currently focused on the security and privacy in deep learning, especially in federated learning, including gradient inversion, membership inference attack, backdoor attack and adversarial attack, etc. Besides that, I am also interested in the tradeoff between performance and privacy in federated learning.
+- 🔭 I’m currently focused on the security and privacy in deep learning, especially in federated learning, including gradient inversion, membership inference attack, backdoor attack and adversarial attack, etc. Besides that, I am also interested in the tradeoff between the performance and privacy in federated learning.
 - 🧐 I also do some research about meta reinforcement learning when I was an undergraduate in Nanjing University. If you are interested in this area, come and talk with me, I am so glad to learn from you!
 - 🤔 I am surprised with the powerful LLM (ChatGPT, GPT-4, etc.). Recently, I start to spare some time to learn LLM and try to do something interesting using GPT APIs. Welcome to contact me and brainstorm together!
 
@@ -36,6 +36,7 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
 - 🏸️ Playing badminton is so comfortable, but it's usually hard for me to book the court. 
 - 🏃 Runing, hiking and gym!
 - 🎸 A second learner for the guitar. Learning on the way!
+
 ... ... to be continued, just explore!
 
 
