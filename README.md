@@ -24,7 +24,7 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
 
 ## Experience
 - Nvidia (Mar 2022 -- July 2022)
-  - Work as an engineering intern at performance development lab, mentor: Doris.
+  - Work as an engineering intern at performance development lab, mentor: Robin.
 
 ## Honor & Award
 - Postgraduate Scholarship 2022
