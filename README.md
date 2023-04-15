@@ -1,6 +1,6 @@
 ### Here we go!✨✨✨
 
-Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can call me Jeffrey. Now I am a first-year PhD student in The Hong Kong University of Science and Technology.
+Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can call me Jeffrey. Now I am a first-year PhD student at The Hong Kong University of Science and Technology.
 <!-- ![image](https://user-images.githubusercontent.com/93043187/226234646-edc976a7-6033-4b60-b0bf-c8b59a2e734f.png) -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93043187/226234646-edc976a7-6033-4b60-b0bf-c8b59a2e734f.png" width="600" height="360" align="center" />
@@ -9,7 +9,7 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
 ## Research Area
 - 🔭 I’m currently focused on the security and privacy in deep learning, especially in federated learning, including gradient inversion, membership inference attack, backdoor attack and adversarial attack, etc. Besides that, I am also interested in the tradeoff between the performance and privacy in federated learning.
 - 🧐 I also do some research about meta reinforcement learning when I was an undergraduate in Nanjing University. If you are interested in this area, welcome to come and talk with me, I am so glad to learn from you!
-- 🤔 I am surprised with the powerful LLM (ChatGPT, GPT-4, etc.). Recently, I start to spare some time to learn LLM and try to do something interesting using GPT APIs. Welcome to contact me and brainstorm together!
+- 🤔 I am surprised at the powerful LLM (ChatGPT, GPT-4, etc.). Recently, I start to spare some time to learn LLM and try to do something interesting using GPT APIs. Welcome to contact me and brainstorm together!
 
 ## Publication
 - $\textbf{W. Sun}$, S. Li, Y. Sun, and J. Zhang, “DABS: Data-agnostic backdoor attack at the server in federated learning,” Backdoor Attacks and Defenses in Machine Learning (BANDS) Workshop at ICLR 2023, Kigali, Rwanda, May 2023.
