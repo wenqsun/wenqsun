@@ -27,7 +27,7 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
   - Work as an engineering intern at performance development lab, mentor: Robin.
 
 ## Honor & Award
-- Postgraduate Scholarship 2022
+- Postgraduate Scholarship in HKUST 2022
 - Outstanding graduate of Nanjing University 2022
 
 ## Sports & Interest
@@ -35,7 +35,9 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
 - 🏀 I like basketball, but I am not very good at it. Learning on the way!
 - 🏸️ Playing badminton is so comfortable, but it's usually hard for me to book the court. 
 - 🏃 Runing, hiking and gym!
+- 🍲🍺🍔🍦🍎I love delicious food, including hotpot, beers, hamburgers, ice cream, etc. Each time I eat delicious food, I will be very excited😜!
 - 🎸 A second learner for the guitar. Learning on the way!
+- 🧳 I love travelling around once I am free! Explore the world with our footstep together! 
 
 ... ... to be continued, just explore!
 
