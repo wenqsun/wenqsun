@@ -17,10 +17,10 @@ Nice to meet you! My name is Wenqiang Sun (Chinese name: 孙文强), and you can
 ## Education
 - Sep 2022 - present
   - PhD in Electronic and Computer Engineering, The Hong Kong University of Science and Technology
-  - Supervisor: Prof. Jun Zhang
+  - Supervisor: [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html)
 - Sep 2018 - Jun 2022
   - B.Eng. degree in automation, Nanjing University
-  - Supervisor: Prof. Zhi Wang and Prof. Chunlin Chen
+  - Supervisor: [Prof. Zhi Wang](https://heyuanmingong.github.io/index.html) and [Prof. Chunlin Chen](https://scholar.google.com/citations?user=5kXEo74AAAAJ&hl=zh-CN&oi=ao)
 
 ## Experience
 - Nvidia (Mar 2022 -- July 2022)
