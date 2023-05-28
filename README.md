@@ -35,7 +35,7 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 - 🏀 I like basketball, but I am not very good at it. Learning on the way!
 - 🏸️ Playing badminton is so comfortable, but it's usually hard for me to book the court. 
 - 🏃 Runing, hiking and gym!
-- 🍲🍺🍔🍦🍎 I love delicious food, including hotpot, beers, hamburgers, ice cream, etc. Each time I eat delicious food, I will be very excited😜!
+- 🍲🍺🍔🍦🍎 I love exploring delicious food, including hotpot, beers, hamburgers, ice cream, etc. Each time I meet delicious food, I will be very excited and energetic😜!
 - 🎸 A second learner for the guitar. Learning on the way!
 - 🧳 I love travelling around once I am free! Explore the world with our footstep together! 
 
