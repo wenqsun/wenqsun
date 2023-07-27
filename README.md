@@ -12,7 +12,8 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 - 🤔 Recently, I am focused on generative models, including Diffusion Models and AutoRegressive Models. Welcome to contact me and brainstorm together!
 
 ## Publication
-- $\textbf{W. Sun}$, S. Li, Y. Sun, and J. Zhang, “DABS: Data-agnostic backdoor attack at the server in federated learning,” Backdoor Attacks and Defenses in Machine Learning (BANDS) Workshop at ICLR 2023, Kigali, Rwanda, May 2023.
+- Shao J, Li Z, $\textbf{Sun W}$, et al. A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency[J]. arXiv preprint arXiv:2307.10655, 2023. [[PDF](https://arxiv.org/abs/2307.10655)]
+- $\textbf{W. Sun}$, S. Li, Y. Sun, and J. Zhang, “DABS: Data-agnostic backdoor attack at the server in federated learning,” Backdoor Attacks and Defenses in Machine Learning (BANDS) Workshop at ICLR 2023, Kigali, Rwanda, May 2023. [[PDF](https://arxiv.org/abs/2305.01267)]
 
 ## Education
 - Sep 2022 - present
