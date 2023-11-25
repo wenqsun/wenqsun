@@ -13,7 +13,7 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 
 
 ## Publication
-- $J. Shao^*$, $Z. Li^*$, $\textbf{W. Sun^*}$, et al. A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency[J]. arXiv preprint arXiv:2307.10655, 2023. [[PDF](https://arxiv.org/abs/2307.10655)]
+- $J. Shao^{\*}$, $Z. Li^{\*}$, $\textbf{W. Sun}^{\*}$, et al. A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency[J]. arXiv preprint arXiv:2307.10655, 2023. [[PDF](https://arxiv.org/abs/2307.10655)]
 - $\textbf{W. Sun}$, S. Li, Y. Sun, and J. Zhang, “DABS: Data-agnostic backdoor attack at the server in federated learning,” Backdoor Attacks and Defenses in Machine Learning (BANDS) Workshop at ICLR 2023, Kigali, Rwanda, May 2023. [[PDF](https://arxiv.org/abs/2305.01267)]
 
 ## Education
