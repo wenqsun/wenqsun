@@ -1,6 +1,6 @@
 ### Here we go!✨✨✨
 
-Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations?user=XEUeiTEAAAAJ&hl=zh-CN) (Chinese name: 孙文强), and you can call me Jeffrey. Now I am a Second-year PhD student at The Hong Kong University of Science and Technology.
+Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations?user=XEUeiTEAAAAJ&hl=zh-CN) (Chinese name: 孙文强), and you can call me Jeffrey. Now I am a second-year PhD student at The Hong Kong University of Science and Technology.
 <!-- ![image](https://user-images.githubusercontent.com/93043187/226234646-edc976a7-6033-4b60-b0bf-c8b59a2e734f.png) -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93043187/226234646-edc976a7-6033-4b60-b0bf-c8b59a2e734f.png" width="600" height="360" align="center" />
