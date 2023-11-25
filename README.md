@@ -7,12 +7,13 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 </div>
   
 ## Research Area
-- 🔭 I’m currently focused on the security and privacy in deep learning, especially in federated learning, including gradient inversion, membership inference attack, and adversarial attack, etc. Besides that, I am also interested in the tradeoff between the performance and privacy in federated learning.
-- 🧐 I also do some research about meta reinforcement learning when I was an undergraduate in Nanjing University. If you are interested in this area, welcome to come and talk with me, I am so glad to learn from you!
-- 🤔 Recently, I am focused on generative models, including Diffusion Models and AutoRegressive Models. Welcome to contact me and brainstorm together!
+- 🤔 I am focused on generative models, including Diffusion Models and AutoRegressive Models. Recently, my research interests are mainly about the controllable image generation and text-to-3D generation in diffusion models.
+- 🔭 Previously, I was interested in the security and privacy in deep learning, especially in federated learning, including adversarial attack, gradient inversion and membership inference attack. Besides that, I am also interested in the tradeoff between the performance and privacy in federated learning.
+- 🧐 I also conducted some research about meta reinforcement learning and offline reinforcement learning when I was an undergraduate in Nanjing University. If you are interested in this area, welcome to come and talk with me, I am so glad to learn from you!
+
 
 ## Publication
-- Shao J, Li Z, $\textbf{Sun W}$, et al. A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency[J]. arXiv preprint arXiv:2307.10655, 2023. [[PDF](https://arxiv.org/abs/2307.10655)]
+- $J. Shao^*$, $Z. Li^*$, $\textbf{W. Sun^*}$, et al. A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency[J]. arXiv preprint arXiv:2307.10655, 2023. [[PDF](https://arxiv.org/abs/2307.10655)]
 - $\textbf{W. Sun}$, S. Li, Y. Sun, and J. Zhang, “DABS: Data-agnostic backdoor attack at the server in federated learning,” Backdoor Attacks and Defenses in Machine Learning (BANDS) Workshop at ICLR 2023, Kigali, Rwanda, May 2023. [[PDF](https://arxiv.org/abs/2305.01267)]
 
 ## Education
