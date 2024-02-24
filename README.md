@@ -7,7 +7,7 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 </div>
   
 ## Research Area
-- 🤔 I am focused on generative models, including Diffusion Models and AutoRegressive Models. Recently, my research interests are mainly about the controllable image generation and text-to-3D generation in diffusion models.
+- 🤔 I am focused on generative models, including Diffusion Models and AutoRegressive Models. Recently, my research interests are mainly about the controllable image generation and 3D generation.
 - 🔭 Previously, I was interested in the security and privacy in deep learning, especially in federated learning, including adversarial attack, gradient inversion and membership inference attack. Besides that, I am also interested in the tradeoff between the performance and privacy in federated learning.
 - 🧐 I also conducted some research about meta reinforcement learning and offline reinforcement learning when I was an undergraduate in Nanjing University. If you are interested in this area, welcome to come and talk with me, I am so glad to learn from you!
 
