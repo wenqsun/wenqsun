@@ -13,9 +13,9 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 
 
 ## Selected Publications
-- $\textbf{WorldPlay}$ [[PDF](https://arxiv.org/abs/2512.14614)] [[Code](https://github.com/Tencent-Hunyuan/HY-WorldPlay)]
-- $\textbf{DimensionX}$ [[PDF](https://arxiv.org/abs/2411.04928)] [[Code](https://github.com/wenqsun/DimensionX)] 
-- $\textbf{ReconX}$ [[PDF](https://arxiv.org/abs/2408.16767)] [[Code](https://github.com/THU-SI/ReconX)]
+- $\textbf{WorldPlay}$: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling [[PDF](https://arxiv.org/abs/2512.14614)] [[Code](https://github.com/Tencent-Hunyuan/HY-WorldPlay)]
+- $\textbf{DimensionX}$: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion [[PDF](https://arxiv.org/abs/2411.04928)] [[Code](https://github.com/wenqsun/DimensionX)] 
+- $\textbf{ReconX}$: Reconstruct Any Scene from Sparse Views with Video Diffusion Model [[PDF](https://arxiv.org/abs/2408.16767)] [[Code](https://github.com/THU-SI/ReconX)]
 
 ## Education
 - Sep 2022 - present
