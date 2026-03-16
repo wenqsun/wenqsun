@@ -27,8 +27,8 @@ Nice to meet you! My name is [Wenqiang Sun](https://scholar.google.com/citations
 
 
 ## Honor & Award
-- Postgraduate Scholarship in HKUST 2022
-- Outstanding graduate of Nanjing University 2022
+- Postgraduate Scholarship in HKUST
+- Outstanding graduate of Nanjing University
 
 ## Contact
 - Address: The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
